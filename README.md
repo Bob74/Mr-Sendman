@@ -1,4 +1,4 @@
-# Mr-Sendman
+# Mr Sendman
 Planification et diffusion de messages en masse.
 
 ![Aide](https://i.imgur.com/d0IeA2d.png)
