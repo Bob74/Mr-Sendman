@@ -4,8 +4,8 @@ Planification et diffusion de messages en masse.
 * **Langage :** VB .Net - WPF
 * **Version du Framework :** .Net Framework 4.5
 * **Bibliothèques :**
-  * MahApps.Metro
-  * IPAddressRange
+  * [MahApps.Metro](https://www.nuget.org/packages/MahApps.Metro)
+  * [IPAddressRange](https://www.nuget.org/packages/IPAddressRange)
 
 ![Aide](https://i.imgur.com/d0IeA2d.png)
 ![Message](https://i.imgur.com/hHfkJGs.png)
